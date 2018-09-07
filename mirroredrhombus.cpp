@@ -12,7 +12,7 @@ cout << " ";
 }
 //print stars
 for (int k = 1; k <= n; k++) {
-cout << "*";
+cout << "* ";
 }
 //go to next line
 cout << endl;
